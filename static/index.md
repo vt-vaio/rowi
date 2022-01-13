@@ -5,8 +5,8 @@ Kiwi Warmer Rowi is a developer edition of the Kiwi Warmer Smart Plug equipped w
 A: ESPHome firmware <br>
 B: Default Rowi firwmare providing a local REST API & MQTT integration
 
-Details about Rowi and technical spec: https://www.vaiotech.co.nz/products/
-Where to buy: https://www.kiwi-warmer.co.nz/for-developers/
+Details about Rowi and technical spec: https://www.vaiotech.co.nz/products/ <br>
+Where to buy Rowi: https://www.kiwi-warmer.co.nz/for-developers/
 
 
 # Installation

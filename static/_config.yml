@@ -1,4 +1,3 @@
-# CHANGEME: Set these variable to your liking
 title: ESP32 SmartPlug made for ESPHome
-description: Smart Plug with ESP32 WROOM 32 and an embedded STHC3 temperature and humidity sensor.
+description: Smart Plug with ESP32 WROOM and an embedded STHC3 temperature and humidity sensor. Vaiotech Limited (New Zealand, 2022).
 theme: jekyll-theme-slate

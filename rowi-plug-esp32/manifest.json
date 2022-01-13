@@ -1,0 +1,21 @@
+{
+  "chipFamily": "ESP32",
+  "parts": [
+    {
+      "path": "rowi-plug-esp32/firmware.bin",
+      "offset": 65536
+    },
+    {
+      "path": "rowi-plug-esp32/bootloader_dio_40m.bin",
+      "offset": 4096
+    },
+    {
+      "path": "rowi-plug-esp32/partitions.bin",
+      "offset": 32768
+    },
+    {
+      "path": "rowi-plug-esp32/boot_app0.bin",
+      "offset": 57344
+    }
+  ]
+}

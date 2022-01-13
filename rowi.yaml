@@ -26,7 +26,7 @@ ota:
 web_server:
 
 dashboard_import:
-  package_import_url: github://kiwi-warmer/rowi-plug/rowi-plug.yaml@main
+  package_import_url: https://github.com/vt-vaio/rowi/blob/main/rowi.yaml
 
 binary_sensor:
   - platform: gpio

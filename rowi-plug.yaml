@@ -26,7 +26,7 @@ ota:
 web_server:
 
 dashboard_import:
-  package_import_url: https://github.com/vt-vaio/rowi/blob/main/rowi-plug.yaml
+  package_import_url: https://github.com/vt-vaio/rowi/blob/main/rowi-plug.yaml@main
 
 binary_sensor:
   - platform: gpio

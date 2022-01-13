@@ -1,4 +1,4 @@
 # CHANGEME: Set these variable to your liking
-title: ESPHome Project Template
-description: Powered by ESPHome and ESP Web Tools
+title: ESP32 SmartPlug made for ESPHome
+description: Smart Plug with ESP32 WROOM 32 and an embedded STHC3 temperature and humidity sensor.
 theme: jekyll-theme-slate
